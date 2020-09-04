@@ -6,5 +6,6 @@ int main() {
     string ftime = (time<10)? "Good Morning" : ((time<20)? "Good Day" : "Good Evening"); 
     cout<<ftime;
     cout<<"somthing";
+    cout<<"something else";
     return 0;
 }
